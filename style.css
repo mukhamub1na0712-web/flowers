@@ -78,7 +78,7 @@ section{
     margin-top: 120px;
 }
 .section2_element1{
-    background-image: url(./public/gifts.png);
+    background-image: url(./gifts.png);
     width: 560px;
     height: 221px;
     margin-left: 158px;
@@ -89,7 +89,7 @@ section{
     padding-left: 40px;
 }
 .section2_element2{
-    background-image: url(./public/Plants.png);
+    background-image: url(./Plants.png);
     width: 560px;
     height: 221px;
     margin-right: 155px;
